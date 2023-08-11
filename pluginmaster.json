@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "You",
+    "Name": "PTOM",
+    "InternalName": "ptom",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "PTOM PVP",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "PTOM PVP",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1675256108",
+    "DownloadLinkInstall": "https://github.com/chrissaba3/ptom/archive/refs/heads/main.zip",
+    "DownloadLinkTesting": "https://github.com/chrissaba3/ptom/archive/refs/heads/main.zip",
+    "DownloadLinkUpdate": "https://github.com/chrissaba3/ptom/archive/refs/heads/main.zip"
+  }
+]
